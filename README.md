@@ -73,8 +73,7 @@ The Seed Dispensary Rover automates seed sowing using an Arduino Uno, DC motors,
 
 ## Team Members
 
-* Pooja
-* Add Other Team Member Names
+* POOJA ,M MAHESH,MEGHA R,MANOJ V HEGDE, AMRUTA TAKKALAKI 
 
 ## Conclusion
 
